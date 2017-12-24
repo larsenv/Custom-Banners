@@ -1,0 +1,1 @@
+dir *.bnr /w /b > Gamelist.txt
